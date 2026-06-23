@@ -15,4 +15,12 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
+## Linked List
+|  |
+| ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
