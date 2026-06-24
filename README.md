@@ -44,4 +44,20 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2487-remove-nodes-from-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
