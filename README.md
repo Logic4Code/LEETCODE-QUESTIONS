@@ -62,11 +62,13 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -77,6 +79,7 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
