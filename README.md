@@ -14,6 +14,7 @@ LEETCODE DSA QUESTIONS
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
 | [1189-maximum-number-of-balloons](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
@@ -68,6 +69,7 @@ LEETCODE DSA QUESTIONS
 | [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -75,6 +77,7 @@ LEETCODE DSA QUESTIONS
 | [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -87,6 +90,7 @@ LEETCODE DSA QUESTIONS
 | [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -129,4 +133,8 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
