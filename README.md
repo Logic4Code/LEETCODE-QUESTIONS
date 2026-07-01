@@ -53,6 +53,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -73,6 +74,7 @@ LEETCODE DSA QUESTIONS
 | [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0226-invert-binary-tree) |
@@ -86,6 +88,7 @@ LEETCODE DSA QUESTIONS
 | [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
@@ -105,6 +108,7 @@ LEETCODE DSA QUESTIONS
 | [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0226-invert-binary-tree) |
