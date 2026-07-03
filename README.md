@@ -87,6 +87,7 @@ LEETCODE DSA QUESTIONS
 | [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0563-binary-tree-tilt) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -135,6 +136,7 @@ LEETCODE DSA QUESTIONS
 | [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0563-binary-tree-tilt) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -213,4 +215,5 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0098-validate-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
