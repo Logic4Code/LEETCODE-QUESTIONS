@@ -88,6 +88,7 @@ LEETCODE DSA QUESTIONS
 | [0501-find-mode-in-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0563-binary-tree-tilt) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -108,6 +109,7 @@ LEETCODE DSA QUESTIONS
 | [0501-find-mode-in-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0563-binary-tree-tilt) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -118,6 +120,7 @@ LEETCODE DSA QUESTIONS
 | [0111-minimum-depth-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
@@ -139,6 +142,7 @@ LEETCODE DSA QUESTIONS
 | [0501-find-mode-in-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0563-binary-tree-tilt) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 ## Divide and Conquer
