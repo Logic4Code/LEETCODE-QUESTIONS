@@ -30,6 +30,7 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2487-remove-nodes-from-linked-list) |
@@ -80,6 +81,7 @@ LEETCODE DSA QUESTIONS
 | [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
@@ -137,6 +139,7 @@ LEETCODE DSA QUESTIONS
 | [0100-same-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
@@ -155,6 +158,7 @@ LEETCODE DSA QUESTIONS
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -231,6 +235,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0098-validate-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
