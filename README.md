@@ -103,6 +103,7 @@ LEETCODE DSA QUESTIONS
 | [0563-binary-tree-tilt](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -166,6 +167,7 @@ LEETCODE DSA QUESTIONS
 | [0563-binary-tree-tilt](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
@@ -254,5 +256,6 @@ LEETCODE DSA QUESTIONS
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
