@@ -41,10 +41,12 @@ LEETCODE DSA QUESTIONS
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0037-sudoku-solver) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
