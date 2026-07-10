@@ -17,6 +17,7 @@ LEETCODE DSA QUESTIONS
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
 | [1189-maximum-number-of-balloons](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
@@ -224,6 +225,7 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [0037-sudoku-solver](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
@@ -264,4 +266,8 @@ LEETCODE DSA QUESTIONS
 | [0700-search-in-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
