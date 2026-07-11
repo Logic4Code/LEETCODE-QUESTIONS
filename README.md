@@ -32,6 +32,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0143-reorder-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
@@ -194,6 +195,7 @@ LEETCODE DSA QUESTIONS
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1382-balance-a-binary-search-tree) |
@@ -207,6 +209,7 @@ LEETCODE DSA QUESTIONS
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
@@ -266,6 +269,7 @@ LEETCODE DSA QUESTIONS
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
