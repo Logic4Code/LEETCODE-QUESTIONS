@@ -241,6 +241,7 @@ LEETCODE DSA QUESTIONS
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0397-integer-replacement) |
 | [1382-balance-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1382-balance-a-binary-search-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
@@ -271,6 +272,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0222-count-complete-tree-nodes) |
+| [0397-integer-replacement](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0397-integer-replacement) |
 ## Graph Theory
 |  |
 | ------- |
@@ -304,4 +306,9 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0131-palindrome-partitioning) |
+| [0397-integer-replacement](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
