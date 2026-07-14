@@ -49,6 +49,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
@@ -61,6 +62,7 @@ LEETCODE DSA QUESTIONS
 | [0037-sudoku-solver](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
@@ -250,6 +252,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
