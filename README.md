@@ -37,6 +37,7 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0143-reorder-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
@@ -99,6 +100,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
