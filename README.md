@@ -243,6 +243,7 @@ LEETCODE DSA QUESTIONS
 ## Math
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0357-count-numbers-with-unique-digits) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -283,6 +284,7 @@ LEETCODE DSA QUESTIONS
 | [0051-n-queens](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0357-count-numbers-with-unique-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -333,6 +335,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0131-palindrome-partitioning) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
