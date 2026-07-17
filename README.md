@@ -244,6 +244,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0357-count-numbers-with-unique-digits) |
+| [0367-valid-perfect-square](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0367-valid-perfect-square) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -294,6 +295,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
