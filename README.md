@@ -78,6 +78,7 @@ LEETCODE DSA QUESTIONS
 | [1695-maximum-erasure-value](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1695-maximum-erasure-value) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -245,6 +246,7 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0367-valid-perfect-square) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -253,6 +255,7 @@ LEETCODE DSA QUESTIONS
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
