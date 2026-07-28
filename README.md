@@ -26,6 +26,7 @@ LEETCODE DSA QUESTIONS
 | [0151-reverse-words-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0500-keyboard-row) |
 | [1189-maximum-number-of-balloons](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -60,6 +61,7 @@ LEETCODE DSA QUESTIONS
 | [0143-reorder-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -354,6 +356,7 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0357-count-numbers-with-unique-digits) |
+| [0392-is-subsequence](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 ## Memoization
