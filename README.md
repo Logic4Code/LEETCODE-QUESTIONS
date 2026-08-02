@@ -83,6 +83,7 @@ LEETCODE DSA QUESTIONS
 | [0347-top-k-frequent-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0500-keyboard-row) |
+| [0877-stone-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1288-remove-covered-intervals](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
@@ -264,6 +265,7 @@ LEETCODE DSA QUESTIONS
 | [0367-valid-perfect-square](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -373,6 +375,7 @@ LEETCODE DSA QUESTIONS
 | [0397-integer-replacement](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -394,4 +397,5 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
