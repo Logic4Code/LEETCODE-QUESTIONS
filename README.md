@@ -10,6 +10,7 @@ LEETCODE DSA QUESTIONS
 | [0037-sudoku-solver](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0500-keyboard-row) |
 | [1189-maximum-number-of-balloons](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -27,6 +28,7 @@ LEETCODE DSA QUESTIONS
 | [0151-reverse-words-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0541-reverse-string-ii) |
@@ -39,6 +41,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -398,4 +401,8 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
