@@ -25,6 +25,7 @@ LEETCODE DSA QUESTIONS
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0205-isomorphic-strings) |
@@ -65,6 +66,7 @@ LEETCODE DSA QUESTIONS
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
@@ -377,6 +379,7 @@ LEETCODE DSA QUESTIONS
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
@@ -410,4 +413,8 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
