@@ -272,6 +272,7 @@ LEETCODE DSA QUESTIONS
 | [0357-count-numbers-with-unique-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
