@@ -87,6 +87,7 @@ LEETCODE DSA QUESTIONS
 | [0075-sort-colors](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0500-keyboard-row) |
 | [0877-stone-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
@@ -313,6 +314,7 @@ LEETCODE DSA QUESTIONS
 | [0075-sort-colors](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1288-remove-covered-intervals](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -339,6 +341,7 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -353,6 +356,7 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -360,6 +364,7 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [0036-valid-sudoku](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0037-sudoku-solver) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
