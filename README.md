@@ -16,6 +16,7 @@ LEETCODE DSA QUESTIONS
 | [1331-rank-transform-of-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1695-maximum-erasure-value) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -100,6 +101,7 @@ LEETCODE DSA QUESTIONS
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -319,6 +321,7 @@ LEETCODE DSA QUESTIONS
 | [1331-rank-transform-of-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3731-find-missing-elements) |
