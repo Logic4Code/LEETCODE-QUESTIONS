@@ -123,6 +123,7 @@ LEETCODE DSA QUESTIONS
 | [3731-find-missing-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3819-rotate-non-negative-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3895-count-digit-appearances) |
 ## Stack
@@ -427,6 +428,7 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2109-adding-spaces-to-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3819-rotate-non-negative-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bucket Sort
 |  |
