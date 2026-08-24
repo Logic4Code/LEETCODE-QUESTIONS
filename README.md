@@ -41,6 +41,7 @@ LEETCODE DSA QUESTIONS
 | [0500-keyboard-row](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0541-reverse-string-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
+| [1324-print-words-vertically](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1324-print-words-vertically) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2109-adding-spaces-to-a-string) |
@@ -104,6 +105,7 @@ LEETCODE DSA QUESTIONS
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1288-remove-covered-intervals](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
+| [1324-print-words-vertically](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1324-print-words-vertically) |
 | [1331-rank-transform-of-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1695-maximum-erasure-value) |
@@ -427,6 +429,7 @@ LEETCODE DSA QUESTIONS
 ## Simulation
 |  |
 | ------- |
+| [1324-print-words-vertically](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1324-print-words-vertically) |
 | [2109-adding-spaces-to-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2109-adding-spaces-to-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3819-rotate-non-negative-elements) |
