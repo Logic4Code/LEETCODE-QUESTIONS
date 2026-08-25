@@ -24,6 +24,7 @@ LEETCODE DSA QUESTIONS
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -122,6 +123,7 @@ LEETCODE DSA QUESTIONS
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
