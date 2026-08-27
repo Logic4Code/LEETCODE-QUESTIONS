@@ -117,6 +117,7 @@ LEETCODE DSA QUESTIONS
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2109-adding-spaces-to-a-string) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -332,6 +333,7 @@ LEETCODE DSA QUESTIONS
 | [0397-integer-replacement](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0397-integer-replacement) |
 | [1382-balance-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1382-balance-a-binary-search-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
