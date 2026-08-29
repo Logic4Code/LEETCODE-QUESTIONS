@@ -96,6 +96,7 @@ LEETCODE DSA QUESTIONS
 | [0027-remove-element](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
@@ -359,6 +360,7 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [0022-generate-parentheses](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
