@@ -138,6 +138,7 @@ LEETCODE DSA QUESTIONS
 | [3819-rotate-non-negative-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3895-count-digit-appearances) |
 ## Stack
 |  |
@@ -320,6 +321,7 @@ LEETCODE DSA QUESTIONS
 | [3783-mirror-distance-of-an-integer](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3895-count-digit-appearances) |
 ## Number Theory
 |  |
