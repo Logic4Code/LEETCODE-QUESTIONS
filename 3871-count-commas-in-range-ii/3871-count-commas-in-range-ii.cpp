@@ -5,9 +5,9 @@ public:
 
     std::string s = to_string(n);
     long long totalSum = 0;
-    for (int i = (int)s.length() - 3; i > 0; i -= 3) {
+    for (int i = s.length() - 3; i > 0; i -= 3) {
         long long x = 1;
-        for (int k = 0; k < (int)s.length() - i; ++k) {
+        for (int k = 0; k < s.length() - i; ++k) {
             x *= 10;
         }
         totalSum += (n - x + 1);
