@@ -25,6 +25,7 @@ LEETCODE DSA QUESTIONS
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -129,6 +130,7 @@ LEETCODE DSA QUESTIONS
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -170,6 +172,7 @@ LEETCODE DSA QUESTIONS
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -343,6 +346,7 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [1291-sequential-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
