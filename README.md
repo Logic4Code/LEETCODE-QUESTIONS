@@ -315,6 +315,7 @@ LEETCODE DSA QUESTIONS
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
@@ -481,6 +482,7 @@ LEETCODE DSA QUESTIONS
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 ## Queue
@@ -495,4 +497,20 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0022-generate-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
