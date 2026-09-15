@@ -109,6 +109,7 @@ LEETCODE DSA QUESTIONS
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0500-keyboard-row) |
+| [0682-baseball-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0941-valid-mountain-array) |
@@ -154,6 +155,7 @@ LEETCODE DSA QUESTIONS
 | [0144-binary-tree-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2487-remove-nodes-from-linked-list) |
@@ -465,6 +467,7 @@ LEETCODE DSA QUESTIONS
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [1324-print-words-vertically](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1324-print-words-vertically) |
 | [2109-adding-spaces-to-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2109-adding-spaces-to-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
