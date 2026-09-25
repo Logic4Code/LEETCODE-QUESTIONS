@@ -326,6 +326,7 @@ LEETCODE DSA QUESTIONS
 | [0507-perfect-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -464,6 +465,7 @@ LEETCODE DSA QUESTIONS
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -493,6 +495,7 @@ LEETCODE DSA QUESTIONS
 | [0292-nim-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
 ## Queue
 |  |
 | ------- |
@@ -509,6 +512,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -521,4 +525,5 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
