@@ -90,6 +90,7 @@ LEETCODE DSA QUESTIONS
 | [0392-is-subsequence](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -111,6 +112,7 @@ LEETCODE DSA QUESTIONS
 | [0496-next-greater-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0500-keyboard-row) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
@@ -376,6 +378,7 @@ LEETCODE DSA QUESTIONS
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -398,6 +401,7 @@ LEETCODE DSA QUESTIONS
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1695-maximum-erasure-value) |
@@ -410,6 +414,7 @@ LEETCODE DSA QUESTIONS
 | [0367-valid-perfect-square](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -428,6 +433,7 @@ LEETCODE DSA QUESTIONS
 | [0347-top-k-frequent-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
