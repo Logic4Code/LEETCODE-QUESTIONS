@@ -36,6 +36,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
@@ -156,6 +157,7 @@ LEETCODE DSA QUESTIONS
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
@@ -516,6 +518,7 @@ LEETCODE DSA QUESTIONS
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0022-generate-parentheses) |
 ## Brainteaser
 |  |
