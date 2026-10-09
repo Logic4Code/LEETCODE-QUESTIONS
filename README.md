@@ -95,6 +95,7 @@ LEETCODE DSA QUESTIONS
 | [0392-is-subsequence](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2109-adding-spaces-to-a-string) |
@@ -338,6 +339,7 @@ LEETCODE DSA QUESTIONS
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0633-sum-of-square-numbers) |
 | [0754-reach-a-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0754-reach-a-number) |
 | [0877-stone-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
@@ -430,6 +432,7 @@ LEETCODE DSA QUESTIONS
 | [0367-valid-perfect-square](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0754-reach-a-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0754-reach-a-number) |
 ## Bit Manipulation
