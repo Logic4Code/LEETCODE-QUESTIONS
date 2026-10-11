@@ -139,6 +139,7 @@ LEETCODE DSA QUESTIONS
 | [2109-adding-spaces-to-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2109-adding-spaces-to-a-string) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -370,6 +371,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
