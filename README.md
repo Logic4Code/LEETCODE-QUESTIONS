@@ -38,6 +38,7 @@ LEETCODE DSA QUESTIONS
 | [0005-longest-palindromic-substring](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0043-multiply-strings) |
 | [0131-palindrome-partitioning](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0205-isomorphic-strings) |
@@ -336,6 +337,7 @@ LEETCODE DSA QUESTIONS
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0043-multiply-strings) |
 | [0292-nim-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0367-valid-perfect-square) |
@@ -513,6 +515,7 @@ LEETCODE DSA QUESTIONS
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [1324-print-words-vertically](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1324-print-words-vertically) |
 | [2109-adding-spaces-to-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2109-adding-spaces-to-a-string) |
