@@ -139,6 +139,7 @@ LEETCODE DSA QUESTIONS
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2109-adding-spaces-to-a-string) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
@@ -414,6 +415,7 @@ LEETCODE DSA QUESTIONS
 | [1331-rank-transform-of-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -450,6 +452,7 @@ LEETCODE DSA QUESTIONS
 | [0633-sum-of-square-numbers](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0754-reach-a-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0754-reach-a-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
