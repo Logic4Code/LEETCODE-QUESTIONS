@@ -154,6 +154,7 @@ LEETCODE DSA QUESTIONS
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -460,6 +461,7 @@ LEETCODE DSA QUESTIONS
 | [0222-count-complete-tree-nodes](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0260-single-number-iii) |
 | [0397-integer-replacement](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0397-integer-replacement) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Graph Theory
 |  |
