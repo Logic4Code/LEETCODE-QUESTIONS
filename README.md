@@ -6,6 +6,7 @@ LEETCODE DSA QUESTIONS
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -36,6 +37,7 @@ LEETCODE DSA QUESTIONS
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0022-generate-parentheses) |
@@ -443,6 +445,7 @@ LEETCODE DSA QUESTIONS
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
