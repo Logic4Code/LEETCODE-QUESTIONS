@@ -94,6 +94,7 @@ LEETCODE DSA QUESTIONS
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
@@ -112,6 +113,7 @@ LEETCODE DSA QUESTIONS
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0037-sudoku-solver) |
@@ -414,6 +416,7 @@ LEETCODE DSA QUESTIONS
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
