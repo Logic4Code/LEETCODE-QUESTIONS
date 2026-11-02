@@ -130,6 +130,7 @@ LEETCODE DSA QUESTIONS
 | [0347-top-k-frequent-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0500-keyboard-row) |
@@ -361,6 +362,7 @@ LEETCODE DSA QUESTIONS
 | [0292-nim-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0367-valid-perfect-square) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
@@ -429,6 +431,7 @@ LEETCODE DSA QUESTIONS
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
