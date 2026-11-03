@@ -173,6 +173,7 @@ LEETCODE DSA QUESTIONS
 | [3718-smallest-missing-multiple-of-k](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3819-rotate-non-negative-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3819-rotate-non-negative-elements) |
@@ -380,6 +381,7 @@ LEETCODE DSA QUESTIONS
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
