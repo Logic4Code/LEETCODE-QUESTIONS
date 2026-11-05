@@ -111,6 +111,7 @@ LEETCODE DSA QUESTIONS
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -150,6 +151,7 @@ LEETCODE DSA QUESTIONS
 | [1288-remove-covered-intervals](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1324-print-words-vertically](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1324-print-words-vertically) |
 | [1331-rank-transform-of-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1695-maximum-erasure-value) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -443,6 +445,7 @@ LEETCODE DSA QUESTIONS
 | [1262-greatest-sum-divisible-by-three](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -483,6 +486,7 @@ LEETCODE DSA QUESTIONS
 | [0633-sum-of-square-numbers](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0754-reach-a-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0754-reach-a-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
