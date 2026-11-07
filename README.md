@@ -19,6 +19,7 @@ LEETCODE DSA QUESTIONS
 | [0500-keyboard-row](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0500-keyboard-row) |
 | [0692-top-k-frequent-words](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
+| [0954-array-of-doubled-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0954-array-of-doubled-pairs) |
 | [1189-maximum-number-of-balloons](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -146,6 +147,7 @@ LEETCODE DSA QUESTIONS
 | [0904-fruit-into-baskets](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0941-valid-mountain-array) |
+| [0954-array-of-doubled-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0954-array-of-doubled-pairs) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -418,6 +420,7 @@ LEETCODE DSA QUESTIONS
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0954-array-of-doubled-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0954-array-of-doubled-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1382-balance-a-binary-search-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -446,6 +449,7 @@ LEETCODE DSA QUESTIONS
 | [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
+| [0954-array-of-doubled-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0954-array-of-doubled-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
