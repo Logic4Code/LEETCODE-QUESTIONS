@@ -140,6 +140,7 @@ LEETCODE DSA QUESTIONS
 | [0500-keyboard-row](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0500-keyboard-row) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0692-top-k-frequent-words) |
@@ -419,6 +420,7 @@ LEETCODE DSA QUESTIONS
 | [0397-integer-replacement](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0397-integer-replacement) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0624-maximum-distance-in-arrays) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0954-array-of-doubled-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0954-array-of-doubled-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1262-greatest-sum-divisible-by-three) |
