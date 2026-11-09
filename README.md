@@ -17,6 +17,7 @@ LEETCODE DSA QUESTIONS
 | [0451-sort-characters-by-frequency](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0500-keyboard-row) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0954-array-of-doubled-pairs](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0954-array-of-doubled-pairs) |
@@ -107,6 +108,7 @@ LEETCODE DSA QUESTIONS
 | [0151-reverse-words-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0392-is-subsequence](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0541-reverse-string-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
@@ -138,6 +140,7 @@ LEETCODE DSA QUESTIONS
 | [0486-predict-the-winner](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0500-keyboard-row) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0624-maximum-distance-in-arrays) |
@@ -446,6 +449,7 @@ LEETCODE DSA QUESTIONS
 | [0442-find-all-duplicates-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
@@ -492,6 +496,7 @@ LEETCODE DSA QUESTIONS
 | [0222-count-complete-tree-nodes](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0658-find-k-closest-elements) |
