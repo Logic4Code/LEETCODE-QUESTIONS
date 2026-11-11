@@ -52,6 +52,7 @@ LEETCODE DSA QUESTIONS
 | [0257-binary-tree-paths](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0541-reverse-string-ii) |
@@ -202,6 +203,7 @@ LEETCODE DSA QUESTIONS
 | [0143-reorder-list](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
@@ -215,6 +217,7 @@ LEETCODE DSA QUESTIONS
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -421,6 +424,7 @@ LEETCODE DSA QUESTIONS
 | ------- |
 | [0179-largest-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Logic4Code/LEETCODE-QUESTIONS/tree/master/0624-maximum-distance-in-arrays) |
